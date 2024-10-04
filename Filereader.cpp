@@ -73,5 +73,7 @@ int main()
         thread.join();
     }
 
+    std::cout << " Sum :" << sumofvalues << std::endl;
+
     return 0;
 }
